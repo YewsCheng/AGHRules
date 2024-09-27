@@ -1,0 +1,8 @@
+! Title: Yews's Whitelist
+! Total lines: 696
+! Version: 0.0.1
+! TimeUpdated: 2024-09-27
+! Homepage: https://github.com/YewsCheng/AdGuardHomeRules
+!--------------------------------------
+##小米云备份
+@@||a0.app.xiaomi.com^$important
