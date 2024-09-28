@@ -1,6 +1,6 @@
-! Title: Yews's Whitelist
-! Total lines: 696
+! Title: Yews' Whitelist
 ! Version: 0.0.1
+! Total lines: 1
 ! TimeUpdated: 2024-09-27
 ! Homepage: https://github.com/YewsCheng/AdGuardHomeRules
 !--------------------------------------
